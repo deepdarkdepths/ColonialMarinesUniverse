@@ -58,9 +58,7 @@
     - ActionXenoAcidNormal
     - ActionXenoPheromones
     - ActionXenoWordQueen
-    - ActionXenoPsychicWhisper
-    - ActionXenoPsychicRadiance
-    - ActionXenoGiveOrder
+    - ActionXenoPsychic
     - ActionXenoGut
     - ActionXenoPlantWeeds
     - ActionXenoChooseStructure
